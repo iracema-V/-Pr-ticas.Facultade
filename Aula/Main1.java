@@ -15,3 +15,4 @@ public class Main1 {
       scanner.close();
     }
 }
+///A ideia era escrever uma sequencia de nomes separados por uma virgula///
